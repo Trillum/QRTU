@@ -1,7 +1,5 @@
 # QRTU - A Quick Roblox T-Shirt Uploader
 
-just a small app for me so i can automate the process of uploading tshirts.
-
 # Setup
 1. Download the latest release from the releases.
 
